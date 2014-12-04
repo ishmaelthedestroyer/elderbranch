@@ -1,0 +1,22 @@
+{
+  "name": "elderbranch",
+  "version": "0.0.1",
+  "description": "elderbranch server",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CtrlLA/elderbranch.git"
+  },
+  "author": "ishmaelthedestroyer <ishmaelthedestroyer@gmail.com> (http://ishmaelthedestroyer.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CtrlLA/elderbranch/issues"
+  },
+  "homepage": "http://elderbranch.com",
+  "dependencies": {
+    "express": "^4.10.4"
+  },
+  "engines": {
+    "node": "0.10.30"
+  }
+}
